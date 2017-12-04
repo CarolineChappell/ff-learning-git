@@ -1,6 +1,6 @@
 # ff-learning-git
 
-THis is my first github project.
+This is my first github project.
 
 My hobbies are:
 * Coding
